@@ -75,13 +75,7 @@ else:
  if float(spy_rating)>=6.0:
       print("Invalid Rating")
       sys.exit(0)
- #
- # if spy_rating == "A":
- #    print("You are a 3 star spy")
- # elif spy_rating == "B":
- #    print("You are a 2 star spy")
- # elif spy_rating == "C":
- #    print("You are a 1 star spy")
+
 
 print("hello " + spy_salutation + spy_name)
 print("Your age is :" + spy_age)
